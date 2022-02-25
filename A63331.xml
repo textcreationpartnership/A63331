@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the late most doleful, and lamentable tragedy of old Maddam Gwinn mother to Maddam Elenor Gwinn; vvho was unfortuately drowned, in a fish-pond, at her own mansion-house, near the neat-houses. With an account how that much to be deplored accident, came to pass; and what is expected will be the sequel of the same. With an epitaph, composed against the solemnity of her pompous funeral and many other circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63331</idno>
+            <idno type="STC">Wing T2384</idno>
+            <idno type="STC">ESTC R219800</idno>
+            <idno type="EEBO-CITATION">99831247</idno>
+            <idno type="PROQUEST">99831247</idno>
+            <idno type="VID">35710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35710)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2116:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the late most doleful, and lamentable tragedy of old Maddam Gwinn mother to Maddam Elenor Gwinn; vvho was unfortuately drowned, in a fish-pond, at her own mansion-house, near the neat-houses. With an account how that much to be deplored accident, came to pass; and what is expected will be the sequel of the same. With an epitaph, composed against the solemnity of her pompous funeral and many other circumstances.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s,n,,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gwyn, Helena, d. 1679 --  Early works to 1800.</term>
+               <term>Gwyn, Nell, 1650-1687 --  Early works to 1800.</term>
+               <term>Suicide --  Early works to 1800.</term>
+               <term>Drinking of alcoholic beverages --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:35710:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>A True ACCOUNT Of the late moſt doleful, and lamentable TRAGEDY OF OLD Maddam Gwinn, MOTHER To Maddam <hi>ELENOR GWINN;</hi> VVHO Was unfortunately drowned, in a Fiſh-Pond, at her own Manſion-Houſe, NEAR THE NEAT-HOUSES.</head>
+            <head type="sub">WITH An Account how that much to be deplored Accident, came to paſs; and what is expected will be the ſequel of the ſame. With an Epitaph, compoſed againſt the Solemnity of her Pompous Funeral; and many other Circumſtances.</head>
+            <p>WOnderful ſtrange are the Fates of ſome, who without the Prediction of Stars, make their Perigrination into a a Subterranean Pallace; thinking poſitively to enter without the Art of Conjuration, and that the Grimjaw'd Re<g ref="char:EOLhyphen"/>gent will at all times break his Reſt for their Reception; but if they do more ſeriouſly conſider, and weigh the Order of that place, they'l find a thouſand dire Obſtructions interpoſe; for ſince the grand impoſture was in Hurricanes there ſent, he and his barbarous Crew have dately moddel'd antient Cuſtom<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and turned topſi turvy all the pleaſing Dictate; <hi>Fren'en</hi> Councils had impoſed, that none ſhould come without a lawful was nin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="2" facs="tcp:35710:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->that place, leaſt Inſurrection be inceſſant made, and all bernin<g ref="char:EOLhyphen"/>ed, by ſome Cloſe Intreague; but women ſure, are not ſuch dangerous things, their Tongues the only Weapons are, and they enough to make grand <hi>Pluto</hi> ſtart, not being uſed to peals of Thunder, nor ſhrill Eccho'd ſounds; but ſince now we are diſcourſing concerning ſilent departures, and of noiſeleſs Fates, a ſtrange ſurpriſal whiſpers in our Ears, and tells us, that a chief Matron's gone, being ſent on a Pilgrimage to confeſs her Exorbitancies at the Shrine of <hi>Neptune,</hi> for the abuſes ſhe has lately done to his Element, and the Subje&amp;s of his watery Ter<g ref="char:EOLhyphen"/>ritories. For this ſtudious Matron by great pains and induſtry, and at her vaſt expence, partly in the diſcovery of the Philoſo<g ref="char:EOLhyphen"/>phers ſtone, and partly to find out an ingenious method to re<g ref="char:EOLhyphen"/>ſtore loſt Maiden-heads, that ſo ſhe might to her abundant pro<g ref="char:EOLhyphen"/>fit make a double Morgage to ſuch Buffoon beauty-hunters who daily accoſted her for the procuration of ſome Roſe-buds tho <hi>June</hi> be paſt, as likewiſe to ſinde but a private Tincture for to ſprucifie her Daughters decayed Phiſiogmony; amongſt the many ſhe invented, at laſt ſhe found out an experienced way to catch thoſe ſporting Animals, that frisk in watery plains (otherwiſe this) but by reaſon of her great Charge, in acquiring ſuch a peremptory ſecret, 'tis no reaſon but the Reader ſhould contribute for his knowledge towards the Magnificent pomp of her intended Funeral) the which is ſhortly to be ſolemnized, by the Order of her vertuous Daughter, a Lady of great Fame and greater Repute; ſhe among her private Chimical Operati<g ref="char:EOLhyphen"/>ons finding <hi>Brandy</hi> to be of a powerful and prevailing Influ<g ref="char:EOLhyphen"/>ence, that by the only help of that immortal Liquor ſhe had at<g ref="char:EOLhyphen"/>tained to moſt of her Experiments and that with a ſufficient Doſe, ſhe could at her Pleaſure as ſhe thought moſt fitting and convenient, either quicken or ſtupify the Sences, or locomo<g ref="char:EOLhyphen"/>tive faculties of Life and Reaſon, often pondering in her Vo<g ref="char:EOLhyphen"/>luminous Cogitations Its Conquering Prevalency: at laſt ſhe reſolving for her better Diverſion, to impoſe upon <hi>Tritonian Neptunes</hi> Subjects, the unthinking Gudgeons, that Sin ſhe her ſelf had been ſo often Guilty of; and as the Devil tempted <hi>Eve</hi> in her Primitive Innocence, by the alluring Inticements of a various coloured Pippin, ſo ſhe to imitate his Craft, getting a new half-penny Loafe, and taking in her hand a quart of her ſtupifying <hi>Elixar Vitae,</hi> ſome of the which ſhe drawing into her
+<pb n="3" facs="tcp:35710:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->Mouth by vertue of a Quill, ſpurred it into the divided Loaf, and ſo with the moiſture, making it up into little Balls or Pellets, the which, ſhe caſt into the Element or Fiſhpond, the which no ſooner being in (ſuch a ſtupendious proficiency at<g ref="char:EOLhyphen"/>tended her Invention) but Sholes of harmleſs Gudgeons not knowing their powerful Operations) came nibling about them, which ſo tickled her Fancy to behold, that ſhe was reſol<g ref="char:EOLhyphen"/>ved not to be behind hand with them; but kept time with her Bottel, and ſo often did the good old Gentlewoman participate of the comfortable Creature, that ſhe exhauſted the quinteſſence of the <hi>Vas Vitrum,</hi> whereupon her imagination being Elevated, ſhe like <hi>Copernicus</hi> conceived a ſond Opinion that the World was made of a Windmil-Sail, and that it danced the Hay, and tripped about the dazling Luminaries of the Azure Skies, and this Opinion did ſo far prevail up<g ref="char:EOLhyphen"/>on her Airy <hi>Pericranium,</hi> that ſeeing the Intrels of her Bottle were excruciated, and that the <hi>Monſieure</hi> was departed, lea<g ref="char:EOLhyphen"/>ving only a bare ſcent behind him, that it might be known he had been lately there, ſhe was tranſported ſo beyond her ſelf for want of new ſupplies, and thinking now the Fiſh<g ref="char:EOLhyphen"/>pond had been turned into the ſame, and by device of Tran<g ref="char:EOLhyphen"/>ſubſtantiation, it loſt its Elementary Conſtitution, whereup<g ref="char:EOLhyphen"/>on ſhe never ſtood to pauſe, but <hi>Glacus</hi> like her Feet were turned into Wings, and then ſhe cried I come, nor will I want whilſt ſo much ſtands in view, and making ſome Inden<g ref="char:EOLhyphen"/>tures, as the Emblems of a Will, (not needing then a Scri<g ref="char:EOLhyphen"/>vener for that purpoſe, ſtraight ſhe flounder'd in; the Fiſh af<g ref="char:EOLhyphen"/>frighted, fly and hide themſelves within the Ripid Banks, lea<g ref="char:EOLhyphen"/>ving for Manners-ſake their Breakfaſt half behind. But ma<g ref="char:EOLhyphen"/>ny of them having participated of the Good Matrons boun<g ref="char:EOLhyphen"/>ty were inforced to ſtay behind, not knowing what a <hi>Habias Corpus</hi> meant, their Benifactor being in, now found her grand miſtak; then long in vain did ſhe implore their Aid, but they like her, were far too feeble or inſenſible to yield the leaſt Re<g ref="char:EOLhyphen"/>lief; and ſure had Trident-bearing <hi>Neptune</hi> been there himſelf, ſo Corpulent a Maſs of Fleſh, would have outvied his ſtrength to have delivered her ſafe on Shoare; but oh, the cruel Fate of ſome ſeniſter Star that ruled her Birth, ſhe there expired, and left the Fiſh to be the Executors of her Will to this ſad and diſmal Tragedy, the which has cauſed a univerſal Grief among
+<pb n="4" facs="tcp:35710:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 7 -->the buckſom <hi>Bana-Robas,</hi> So that is generally believed, that upon ſo Tragical occaſion, the Pallace and the Fiſh-pond will be forfeited to her moſt vertuous Daughter, Maddam <hi>Ellen Gwin,</hi> as Lady of the Soil, and chief of all the <hi>Bona-Robas</hi> that the Suburbian Schools of <hi>Venus</hi> late have fitted for the Game. And now in Gratitude to this good Matrons Memory, to be impoſed upon her Tomb-Stone at the approaching Solem<g ref="char:EOLhyphen"/>nization we have compoſed this Epitaph as followeth,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="epitaph">
+                        <head>EPITAPH.</head>
+                        <lg>
+                           <l>HEre lies the Victim of a cruel Fate,</l>
+                           <l>Whom too much Element did Ruinate;</l>
+                           <l>'Tis ſomething strange, but yet moſt wondrous true,</l>
+                           <l>That what we live by, ſhould our Lives undo.</l>
+                           <l>She that ſo oft had powerful Waters try'd,</l>
+                           <l>At laſt with ſilence, in a Fiſh-pond dy'd.</l>
+                           <l>Fate was unjuſt, for had he prv'd but kind;</l>
+                           <l>To make it Brandy, he had pleas'd her Mind.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
